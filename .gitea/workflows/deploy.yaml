@@ -8,6 +8,7 @@
 # HARBOR_USERNAME: e.g. christina
 # HARBOR_PASSWORD: e.g. 123456
 # Author: s@liteyuki.org
+# 如果要使用工作流把应用部署到Kubernetes集群，请参考git.liteyuki.org/kubernetes/deploy/README.md (私有)
 
 name: Build and Push Container Image, Deploy to Host
 
